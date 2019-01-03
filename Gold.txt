@@ -1,0 +1,146 @@
+
+Money Laundering (Russian criminals, £53.7 billion, 1998)
+
+
+Dallas police are trying to find the person who robbed a Capital One Bank branch in the Oak Lawn neighborhood on Wednesday.
+Robbery(person,Capital One Bank,None,Oak Lawn, Wednesday)
+
+Police say a man displayed a handgun and demanded money from the teller of the bank on Lemmon Avenue near Wycliff just before 12:30 p.m
+Robbery(man,teller,money,Wycliff,None)
+
+At least seven reported robberies or attempted robberies at Indianapolis-area pharmacies in the past 24 hours involved suspects who were 18 or younger
+Robbery(younger,none,none,Indianapolis-area pharmacies,none,)
+
+In a robbery attempt at a Northeastside Walgreens, a 12-year-old boy was arrested.The incident was reported about 4 p.m. Tuesday when the boy walked into the Walgreens at 5199 N. Keystone Ave. An Indianapolis Metropolitan Police Department report states that officers were notified of the robbery in progress, responded quickly and took the boy into custody.
+Robbery(12-year-old boy,None,None,Northeastside Walgreens,tuesday)
+
+The former assistant, Nicolas De-Meyer, was accused of stealing more than $1.2 million in high-end wine from the collection of his former boss, David M. Solomon, who is now the chief executive of Goldman Sachs.
+Robbery(Nicolas De-Meyer,David M. Solomon,high-end wine,None,None)
+
+2 Florida women arrested after stealing service dog from Vietnam vet with PTSD, police say
+Robbery(2 Florida women, Vietnam vet,service dog,None,None)
+
+Mr. Percoco, 49, was convicted in March of soliciting and accepting more than $300,000 in bribes from executives of two companies with state business in return for taking official actions on the firms’ behalf.
+Sentenced(Mr. Percoco,March,None,None,None)
+
+Police say a Thanksgiving night fight at an Alabama shopping center left an 18-year-old man and a 12-year-old girl injured and the gunman dead, PEOPLE confirms.
+Assault(flight,None,18-year-old man,Alabama shopping center,Thanksgiving night)
+
+A police officer, a doctor and a recently graduated pharmacist were the three victims in a shooting at Chicago Mercy Hospital on Monday, authorities have confirmed, not including the gunman.
+victims(doctor,None,Chicago Mercy Hospital,shot)
+
+The gunman then shot and killed O’Neal and fled into the hospital when police officers arrived at the scene.
+Assault(killed,gunman,ONeal,None,None)
+
+More than 1,000 Italian workers and criminals have been illegally smuggled into the United States through Canadian Mafia connections in the last two years, the director of a Federal anti-crime task force said last night
+Smuggling(Italian workers,Canadian Mafia,United States,None)
+
+Leviev's son Zevulun is among six suspects accused of involvement in a smuggling operation that has brought about 300 million shekels' ($80 million) worth of diamonds illegally into Israel since 2010, according to a transcript of a custody hearing held on Monday.
+Smuggling(None,diamonds,None,Isarel,None)
+Suspect(Zevulun,None,smuggling)
+
+A former Washington state pastor was sentenced to five years in federal prison on a drug smuggling charge.
+sentenced(pastor,None,federal prison,None,five)
+
+The Columbian reports 55-year-old John Bishop was sentenced this week in U.S. District Court in San Diego after pleading guilty earlier this year.
+sentenced(John Bishop,this week,US District Court,None,None)
+
+The founder of Living Hope Church in Vancouver was caught smuggling nearly 300 pounds (136 kilograms) of marijuana into the United States from Mexico in December 2017.He later told authorities he had smuggled marijuana across the border 18 to 20 times since April 2016, earning $50,000.
+Smuggling(marijuana,mexico,United States,Hope church)
+
+An international criminal ring using trucks laden with oranges to smuggle cannabis into the UK has been shut down by Spanish police.
+smuggling(cannabis,None,UK,ring)
+
+Three Canadians and an American have been sentenced to prison in Australia after cocaine worth more than $20 million was found in their luggage.
+Sentenced(three Canadians,None,Australia,None,None)
+
+Woman who claims her internet beau tricked her into smuggling drugs sentenced to death by hanging
+smuggling(drugs,None,None,woman)
+
+Illegal drugs and multiple guns and boats seized in cross-border smuggling operation
+smuggling(drugs,None,None,None)
+
+Canadian who Instagrammed cocaine-smuggling trip to Australia gets 8 years in prison
+sentenced(canadian,None,None,None,8 years)
+
+The Northeast District RCMP have arrested a man following an incident where shots were fired at a residence in Caraquet, N.B.
+Assault(fired,None,None,Caraquet,None)
+
+A Saskatchewan couple has been sentenced after admitting to their roles in a human smuggling operation involving a group of Nigerian asylum-seekers.
+smuggling(human,None,None,Saskatchewan)
+
+A U.S. federal court has sentenced a Canadian man to six months in prison for his part in a human smuggling operation.
+Sentenced(canadian man,None,None,federal court,None)
+
+A powerful car bomb ripped through a busy marketplace in Peshawar, the regional capital of northwestern Pakistan, early Sunday, killing at least 38 people in the third major attack in and around the city in the past week.The explosion occurred in the historic Qissa Khwani bazaar in the old quarter of the city, roughly two miles from the site of a double suicide bombing of a Christian church a week earlier that killed dozens of people.
+Terrorism(None,bomb,peshwar,sunday)
+
+On Sept. 22, the suicide attack on the nearby All Saints Church killed 85 people, and a bombing on a crowded bus on Friday killed 21 government employees as they traveled home for the weekend.
+Terrorism(None,bomb,crowded bus,Friday)
+
+A 37-year-old New Yorker who left the city four years ago to see the world and change his life was missing and feared dead in Thursday's rush-hour terrorist attacks in London, a relative in the Bronx and friends in New York and London said yesterday.
+Terrorism(None,None,London,None)
+
+A Philippine court on Thursday convicted three police officers for the murder of a 17-year-old boy and sentenced them each to up to 40 years in prison, in the first such conviction in a wave of killings prompted by President Rodrigo Duterte’s war on drugs.
+Sentenced(three police officers,None,None,Philippine court,40 years)
+
+Renoir Estimated at $180,000 Is Stolen From Austrian Auction HouseAt 5:15 p.m. on Monday, three apparently middle-aged men — one carrying a bag from a shoe shop — walked into the Dorotheum auction house in Vienna and went to the second floor.
+Robbery(middle-aged,None, $180,000,Austrian auction HouseAt,Monday)
+
+A New Jersey tech executive was charged Thursday with killing his brother and the brother's family over a business dispute and then setting fire to their mansion and his own house in an attempt to cover up the crimes.
+Assault(None,tech executive,brother,None,None)
+
+police identified the suspects as 21-year-old Caleb Michael Jefferson and 17-year-old Niyah Williams.Unfazed by the threat, the victim responded by reaching into a bag beside him and pulling out his own .40-caliber handgun. 
+Suspect(caleb,21 years,threat)
+Suspect(niyah Williams,17 years, threat)
+
+A Satanic group in California had ornaments stolen off their "Satanic Christmas Tree" this weekend after a public decorating event, a report said
+Robbery(santanic group,None,ornaments,None,weekend)
+
+Hobart Edgar Taylor III, 36, is charged with robbery and several probation violations as the result of a Nov. 15 incident in the 6400 block of Hot Springs Road in Spotsylvania.
+Robbery(hobart,None,None,pensylvania,Nov 15)
+
+In 1984, robbers armed with sawed-off shotguns stole jewelry worth over $1 million from Christie’s, but that was the only similar event that came to mind, Mr. Roundell said.
+Robbery(robbers,Christie’s,jewelry,None,1984)
+
+A 71-year-old woman was sexually assaulted and her husband, a retired police lieutenant, was attacked with a blade during a brutal home invasion in Brooklyn on Monday, the police said.
+Assault(sexually,None,woman,Monday,Brooklyn)
+
+Three men broke into the home and attacked the couple, she said.The woman was tied up and assaulted. 
+Assault(attack,three men,couple,None,None)
+
+On 11 September 2001, terrorists hijacked four aeroplanes and deliberately flew them into targets in the United States of America. These acts of terrorism killed almost 3,000 people and triggered the subsequent conflict in Afghanistan.Over the next 8 years, al-Qaeda were implicated in a series of major attacks on US forces: the shooting down of two American Black Hawk helicopters in Somalia in October 1993, the killing of 19 Americans in a bombing at a military housing complex in Saudi Arabia in 1996, the bombing of US embassies in Dar Es Salaam and Nairobi in 1998, with the loss of 223 lives, and the suicide attack on the USS Cole in 2000, which killed 17 servicemen and wounded 39.
+Terrorism(None,hijack,USA,None)
+
+Gunmen killed at least 25 people and wounded 60 on Saturday in an attack on a military parade in a restive Iranian province that is home to most of the country’s Arab minority, state media said.
+Assault(kill,Gunmen,25 people,None,military parade)
+
+The Thai authorities on Tuesday said they were pursuing a man captured on video before the bombing of a religious shrine in Bangkok the night before, an attack that killed at least 20 people, many of them tourists.
+Terrorism(None,bomb,Bangkok,tuesday)
+
+A bomb blast at a mosque in the Khyber tribal area killed at least 30 people and wounded more than 70 others on Thursday, residents and security officials in the region said.
+Terrorism(None,blast,mosque,Thursday)
+
+A huge bomb blast tore apart a bus carrying Shiites to a religious procession in the southern city of Karachi on Friday afternoon, and barely two hours later another lethal explosion struck a hospital where many of the wounded had been taken, police and hospital officials said.
+Terrorism(None,bomb blast,Karachi,Friday)
+
+Up to 80 people were killed and at least 76 were injured in two car bombs that exploded within almost 24 hours of each other in central Baghdad and in a nearby town, officials said Wednesday
+Terrorism(None,bomb,Baghdad,Wednesday)
+
+On Sept. 22, the suicide attack on the nearby All Saints Church killed 85 people, and a bombing on a crowded bus on Friday killed 21 government employees as they traveled home for the weekend.
+Terrorism(None,bomb blast,crowded bus,sept 22)
+
+
+
+Sentenced (who, when, where, who gave, duration(time))
+Money Laundering (who, amount, when)
+Penalty (who, whom, amount, reason)
+Suspect (who, age, activity)
+Bankruptcy (company, amount, year, who bailed?)
+Victim (name, age, place, type of crime(shot or...))
+Assault (type, who, whom, when, where)
+Terrorism (org name, event, place, when)
+Smuggling (what, from, to, who)
+Robbery (who, whom, what, where, when)
+
+
